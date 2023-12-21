@@ -1,6 +1,6 @@
 # perfin
 
-A new Flutter project.
+A personal finance management tool with really good ui and ux
 
 ## Getting Started
 
